@@ -3,7 +3,7 @@ baseurl: "/site"
 url: "https://jcanfil.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Justin Key Canfil                             # site's title
+title: Justin Key Canfil                            # site's title
 description:      # used by search engines
 avatar: assets/img/avatar.png                         # Empty for no avatar in navbar
 favicon: assets/avatar.ico                             # Icon displayed in the tab
