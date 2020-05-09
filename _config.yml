@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/index"
+baseurl: ""
 url: "https://www.jcanfil.com"
 
 # THEME-SPECIFIC CONFIGURATION
