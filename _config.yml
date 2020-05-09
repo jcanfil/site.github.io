@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/site"
-url: "https://jcanfil.github.io"
+baseurl: ""
+url: "https://www.jcanfil.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Justin Key Canfil                            # site's title
