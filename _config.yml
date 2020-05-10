@@ -5,12 +5,12 @@ url: "https://www.jcanfil.com"
 # THEME-SPECIFIC CONFIGURATION
 title: Justin Key Canfil                            # site's title
 description:      # used by search engines
-avatar: assets/img/avatar.png                         # Empty for no avatar in navbar
+avatar: assets/favicon.ico                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome! 欢迎光临​！  # Change Blog header text
-header_feature_image: assets/img/triangular.jpeg
+header_feature_image: # assets/img/triangular.jpeg
 
 # Blog
 excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
