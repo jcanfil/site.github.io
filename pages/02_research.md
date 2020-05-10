@@ -20,11 +20,8 @@ I leverage a mixed-methods approach involving more than a year and a half of fie
   </div>
     <div class="column">
     <img src="assets/img/2018-12-19-15-58-50.jpg" style="border: 0px solid #000; max-width:200; max-height:150;">
-    <p align="center"><small>US National Archives, December 2018</small></p>
+    <p align="center"><small>LBJ Library, December 2018</small></p>
   </div>
-        <div class="column">
-    <img src="assets/img/nixonchina.png" style="border: 0px solid #000; max-width:200; max-height:150;">
-    <p align="center"><small>Nixon Library, August 2019.
   <div class="column">
     <img src="assets/img/uavcampus.jpg" style="border: 0px solid #000; max-width:200; max-height:150;">
     <p align="center"><small>北航 UAV Institute. Fieldwork, July 2018</small></p>
@@ -33,10 +30,5 @@ I leverage a mixed-methods approach involving more than a year and a half of fie
     <img src="assets/img/img-3882-5.jpg" style="border: 0px solid #000; max-width:200; max-height:150;">
     <p align="center"><small>UNODA. Fieldwork, November 2018</small></p>
   </div>
-      <div class="column">
-    <img src="assets/img/archiv.JPG" style="border: 0px solid #000; max-width:200; max-height:150;">
-    <p align="center"><small>LBJ Library, November 2018</small></p>
-  </div>
 </div>
-
 
