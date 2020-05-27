@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers
 title: Papers
-feature-img: "assets/img/pexels/bg13.png"
+feature-img: "assets/img/pexels/bg15.png"
 ---
 
 
