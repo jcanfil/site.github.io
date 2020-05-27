@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /papers
-title: Papers
+permalink: /projects
+title: Projects & Publications
 feature-img: "assets/img/pexels/triangular.jpeg"
 ---
 
