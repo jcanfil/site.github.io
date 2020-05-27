@@ -6,7 +6,9 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 ---
 
 
-<i>Click to expand:</i>
+
+
+<b>Projects & Publications</b> (click to expand):
 
 
 <details>
@@ -25,7 +27,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 </details>
 
-<br>
 
 <details>
 	<summary>Cyber Conflict</summary>
@@ -43,7 +44,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
-<a style="font-weight:bold href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i>Journal of International Affairs</i>
+<a style="font-weight:bold" href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i><b>Journal of International Affairs</b></i>)
 <ul>
 	<li><i>Concerns about state-directed cyber intrusions have grown increasingly prevalent in recent years. The idea that state principals can obfuscate their involvement in such attacks by delegating operational tasks to non-state agents poses a particularly significant challenge to international enforcement and remedies. Gaps in international law, coupled with obstacles to detection in such cases, may make it more difficult to bring sponsoring states to justice. This paper offers a roadmap for assessing the propensity ofstates to delegate to non-state actors and correct for false positives in standard (typically more technical) cyber attack attribution methods. I conclude that the conditions under which attacks are likely to have been backed by sponsoring states occupy a much narrower window than conventional wisdom suggests, and that the universe oftransgressors can be identified when standard indicators overlap with specific conditions.</i></li>
 </ul><br>
@@ -51,7 +52,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </details>
 
 
-<br>
+
 
 <details>
 	<summary>Outer Space</summary>
@@ -63,7 +64,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 </details>
 
-<br>
+
 
 <details>
 	<summary>Judicial Economy</summary>
@@ -75,12 +76,12 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 </details>
 
-<br>
+
 
 <details>
 	<summary>Military Innovation</summary>
 
-<a style="font-weight:bold" href="http://press.georgetown.edu/book/georgetown/military-strategy-joint-operations-and-airpower">Innovation and Organizational Politics in the US Air Force</a>, in MILITARY STRATEGY, JOINT OPERATIONS, AND AIRPOWER (<i>Georgetown University Press</i>)
+<a style="font-weight:bold" href="http://press.georgetown.edu/book/georgetown/military-strategy-joint-operations-and-airpower">Innovation and Organizational Politics in the US Air Force</a>, in MILITARY STRATEGY, JOINT OPERATIONS, AND AIRPOWER (<i><b>Georgetown University Press</b></i>)
 
 
 </details>
