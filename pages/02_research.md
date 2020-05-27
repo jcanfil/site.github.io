@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research
-title: Research
+permalink: /dissertation
+title: Dissertation
 feature-img: "assets/img/pexels/bg11.png"
 ---
 
