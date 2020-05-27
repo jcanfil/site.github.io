@@ -13,7 +13,7 @@ feature-img: "assets/img/pexels/bg16.png"
 
 [**The International Law of Cyber Conflict: What Do We Know?**](http://static1.1.sqspcdn.com/static/f/956646/28023293/1541729153187/SotF+2017+CCSA+SIPA+Law.pdf?token=ADy5P%2FteGpcQCQKv736cLeBla30%3D) (***Cyber Conflict Studies Association***)
 
-[**Intelligence and Adversaries: What Do We Know?**](https://www.dropbox.com/s/s6hvs57pjpvtefx/SOTF_Review_Copy.pdf?raw=1) (***Cyber Conflict Studies Association***)
+[**Cyber Intelligence and Attribution: What Do We Know?**](https://www.dropbox.com/s/s6hvs57pjpvtefx/SOTF_Review_Copy.pdf?raw=1) (***Cyber Conflict Studies Association***)
 
 [**Lessons on History and Statecraft**](https://warontherocks.com/2016/08/lessons-on-history-and-statecraft-from-a-rocky-mountain-seminar/) (***War on the Rocks***)
     - *with Lauren Dickey, Brad Potter, and Laura Weiss.*
