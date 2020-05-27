@@ -16,6 +16,6 @@ feature-img: "assets/img/pexels/bg16.png"
 [**Intelligence and Adversaries: What Do We Know?**](https://www.jcanfil.com/uploads/9/1/1/5/91156714/sotf_review_copy.pdf) (***Cyber Conflict Studies Association***)
 
 [**Lessons on History and Statecraft**](https://warontherocks.com/2016/08/lessons-on-history-and-statecraft-from-a-rocky-mountain-seminar/) (***War on the Rocks***)
-* with Lauren Dickey, Brad Potter, and Laura Weiss.
+    - *with Lauren Dickey, Brad Potter, and Laura Weiss.*
 
 [**Cybersecurity and the Law: Mitigating Cyber Risk**](https://frenchamerican.org/sites/default/files/documents/cyber_security_and_the_law_managing_cyber_risk.pdf) (***French-American Foundation***)
