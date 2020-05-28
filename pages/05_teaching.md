@@ -1,0 +1,140 @@
+---
+layout: page
+permalink: /teaching
+title: Teaching
+feature-img: "assets/img/pexels/bg10.png"
+---
+
+
+
+
+<b>Teaching Information</b> (click to expand):
+
+
+
+<div class="row">
+  <div class="column">
+<p style="text-align:justify;">
+
+<details>
+	 <summary>Classes Taught</summary>
+
+<b>Columbia College</b><br>
+
+<a style="font-weight:bold" href="404">Chinese Foreign Policy</a> (TA) 
+<ul>
+	<li><i>What are China's goals? How do its leaders make decisions on the world stage? In order to understand China's role in the global order, we must try to understand how it calibrates and conducts its foreign policy. This course surveys what we know about the history, organization, and incentive structure of Beijing's modern foreign relations and grand strategy.
+	</i></li>
+</ul><br>
+
+
+<a style="font-weight:bold" href="404">Introduction to Human Rights</a> (TA)
+<ul>
+	<li><i>Much of international law can be explained by mutual self-interest. States make the rules, and the rules tend to reflect their interests. Not so in human rights, however: states apparently gain nothing by guaranteeing the protection of social, economic, and civic rights. Unlike most international law, human rights are about the individual. Why have these rights emerged and upon what moral and legal foundations are they premised? When and why do governments follow these rules, especially authoritarian countries? This course provides and introduction to the law, history, and politics of the human rights regime.
+	</i></li>
+</ul><br>
+
+<a style="font-weight:bold" href="404">The American Congress</a> (TA)
+<ul>
+	<li><i>Much of the lawmaking that impacts the daily lives of Americans is done in the US Congress, which is totally unique in design from any other legislative institution in the world. Yet Congress has been gridlocked for a decade or more. How does Congress as a collective make decisions? How are laws generated in an era of increasingly bitter partisanship? And how do its members interact with other branches of government and the American public? By understanding how their votes actually translate into policy outcomes, this class seeks to prepare students to be responsible members of civil society.
+	</i></li>
+</ul><br>
+
+<b>Columbia Law</b><br>
+
+<a style="font-weight:bold" href="404">The Law and Ethics of Emerging Technologies</a> (TA)
+<ul>
+	<li><i>Emerging technologies raise complex issues for courts, companies, citizens, and countries alike. Who decides what is right, wrong, or even legally permissible when new situations arise for which the law is silent? This course presents a series of case studies and interactive simulations, which highlight both proactive and reactive steps that individuals, organizations, and leaders can take to manage technological problems and mitigate social harm.
+	</i></li>
+</ul><br>
+
+<b>Columbia SIPA</b><br>
+
+<a style="font-weight:bold" href="404">War, Peace, and Strategy</a> (TA)
+<ul>
+	<li><i>Whether or not one has ever served in the armed forces, we should understand the ramifications of decisions to put servicemembers in harm's way, since although war often seems faraway or remote, only a thin membrane insulates us from its return. Students in civilian institutions of higher learning have few opportunities to study the prosection and ethics of armed conflict, however. This course examines some of the most difficult questions countries have ever had to make: civil-military relations (how do societies ensure the people with the guns don't end up dictating policy?) the jurisprudence of war (when, if ever, is organized killing the most moral choice?), and theories of military science (the complex interrelationship between tactics, operations, strategy, and policy). It is one of the only courses of its kind.
+	</i></li>
+</ul><br>
+
+<b>Kent State University</b><br>
+
+<a style="font-weight:bold" href="404">Emerging Trends and Issues</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Law, Justice, and Society</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Legal Perspectives</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Homeland Security Policy</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Terrorism and Counterterrorism</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Restorative Justice</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Theories of Crime and Violence</a> (Instructor)
+<ul>
+</ul><br>
+
+<a style="font-weight:bold" href="404">Service Agencies and the Law</a> (Instructor)
+<ul>
+</ul><br>
+
+</details>
+
+
+<details>
+	<summary>Tutorials</summary>
+
+
+<a style="font-weight:bold" href="404">Citation Styless</a> 
+<ul>
+	<li><i>Under construction</i></li>
+</ul><br>
+
+
+<a style="font-weight:bold" href="404">Citation Managers</a> 
+<ul>
+	<li><i>Under construction</i></li>
+</ul><br>
+
+</details>
+
+
+<details>
+	<summary>Letters of Recommendation</summary>
+
+<b>I strongly suggest that students first seek out tenured professors to write their letters</b>, since these carry the most weight. Quite understandably, however, not everyone has had the opportunity to develop close working relationships with tenured faculty before graduating. If you plan to ask me for a recommendation letter, you should email me with the following:<br>
+
+<ul>
+	<li>Application deadline (please give me at least two weeks notice unless I've written for you previously)</li>
+	<li>Your statement of purpose/personal statement/cover letter, or a description of your motivation for applying and immediate objectives</li>
+	<li>Also helpful: transcripts, resume/CV, and anything else you think I should know about your circumstances or aspirations</li>
+	<li>How and to whom I should submit the recommendation</li>
+</ul><br>
+
+The more you can provide, the better I can try to make your letter. 
+
+
+</details>
+
+
+</p>
+</div>
+  <div class="column">
+<img src="assets/img/teach3.jpg" align="right" style="border: 0px solid #000; max-width:150; max-height:150";>
+</div>
+</div>
+
+
+If you're a former student, please feel free to get back in touch! I'd love to hear how you're doing.
