@@ -5,9 +5,11 @@ title: Commentary
 feature-img: "assets/img/pexels/bg16.png"
 ---
 
-[**The US Knew the Soviets Would Cheat on the Test Ban. Why Resume Testing Now?**](404) (*under review*)
+[**Tear Gas is a Weapon of War Under International Law. So Why is it Being Used to Quell Protests?**](404) (***Lawfare***, forthcoming)
 
-[**The US Will Exit ‘Open Skies’: Americans Deserve a Better Explanation for Why**](404) (***Lawfare***, forthcoming)
+[**The US Knew the Soviets Would Cheat on the Test Ban. Why Resume Testing Now?**](404) (***War on the Rocks***, forthcoming)
+
+[**The US Will Exit ‘Open Skies’: Americans Deserve a Better Explanation for Why**](https://www.lawfareblog.com/us-will-exit-open-skies-treaty-and-its-unclear-why) (***Lawfare***)
 
 [**50 Years After Apollo 11, China Is on Deck to Land Next. That doesn’t have to be a bad thing**](https://thediplomat.com/2019/07/50-years-after-apollo-11-china-is-on-deck-to-land-next/) (***The Diplomat***)
 
