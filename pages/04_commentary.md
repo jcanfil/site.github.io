@@ -5,9 +5,9 @@ title: Commentary
 feature-img: "assets/img/pexels/bg16.png"
 ---
 
-[**The US Knew the Soviets Would Cheat on the Test Ban. Why Resume Testing Now?**](404) (***War on the Rocks***, forthcoming)
+[**The US Knew the Soviets Would Cheat on the Test Ban. Why Resume Testing Now?**](https://warontherocks.com/2020/07/trumps-nuclear-test-would-risk-everything-to-gain-nothing/) (***War on the Rocks***)
 
-[**Tear Gas is a Weapon of War Under International Law. So Why is it Being Used to Quell Protests?**](https://www.lawfareblog.com/why-was-tear-gas-used-quell-american-protests) (***Lawfare***, forthcoming)
+[**Tear Gas is a Weapon of War Under International Law. So Why is it Being Used to Quell Protests?**](https://www.lawfareblog.com/why-was-tear-gas-used-quell-american-protests) (***Lawfare***)
 
 [**The US Will Exit Open Skies and it's Unclear Why**](https://www.lawfareblog.com/us-will-exit-open-skies-treaty-and-its-unclear-why) (***Lawfare***)
 
