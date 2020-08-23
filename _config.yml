@@ -5,8 +5,8 @@ url: "https://www.jcanfil.com"
 # THEME-SPECIFIC CONFIGURATION
 title: Justin Key Canfil                            # site's title
 description:      # used by search engines
-avatar: assets/crown2.ico                        # Empty for no avatar in navbar
-favicon: assets/crown2.ico                            # Icon displayed in the tab
+avatar: assets/seal.png                        # Empty for no avatar in navbar
+favicon: assets/seal.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome! 欢迎光临​！  # Change Blog header text
