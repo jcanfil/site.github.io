@@ -12,7 +12,13 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 <details>
-	 <summary>Arms Control</summary>
+	 <summary>Dissertation Chapters: Law and Arms Control</summary>
+
+
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684991">How International Law Keeps Pace with Technological Change: Evidence from an Experiment</a> (under review)
+<ul>
+	<li><i>Law is codified in text. Text is static, however, and new situations and technologies arise for which its writers could never have envisioned. Yet societies often find ways of adapting the law rather than writing it anew. When new situations arise for which the law is technically silent, how do states decide whether these constitute loopholes, lacunae, or lawbreaking? This paper advances a formal theory that shows how ambiguity can actually be advantageous in some situations. Self-interest politicizes the interpretation process, but only at the margins, forcing decisionmakers to make tradeoffs between plausibility and security. The theoretical predictions are tested using a vignette-based laboratory experiment fielded on lawyers and elite law students in the US and China. The empirical findings reveal how legal agents are constrained by analogical capacity flowing from extant legal text, even when the stakes are high.</i></li>
+</ul><br>
 
 <a style="font-weight:bold" href="http://dx.doi.org/10.2139/ssrn.3423080">Controlling Tomorrow: Explaining Anticipatory Bans on Emerging Military Technologies</a> (under review)
 <ul>
@@ -20,10 +26,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
-<a style="font-weight:bold" href="404">The Language of Lawmaking: Treaty Complexity, Technology, and the Nature of Compliance</a> (working paper available)
-<ul>
-	<li><i>Law is codified in text. Text is static, however, and new situations and technologies arise for which its writers could never have envisioned. Yet societies often find ways of adapting the law rather than writing it anew. When new situations arise for which the law is technically silent, how do states decide whether these constitute loopholes, lacunae, or lawbreaking? This paper introduces a formal model that shows how ambiguity can actually be advantageous in some situations. Self-interest politicizes the interpretation process, but only at the margins, forcing decisionmakers to make tradeoffs between plausibility and security. In this NSF-funded study, I test the theory with three historical case studies of arms control disputes. The results are cross-validated against a laboratory experiment fielded on elite law students in the US and China. The empirical findings reveal how legal agents are constrained by analogical capacity flowing from extant legal text, even when the stakes are high.</i></li>
-</ul><br>
 
 </details>
 
@@ -32,22 +34,17 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 	<summary>Cyber Conflict</summary>
 
 
+<a style="font-weight:bold" href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i><b>Journal of International Affairs</b></i>)
+<ul>
+	<li><i>Concerns about state-directed cyber intrusions have grown increasingly prevalent in recent years. The idea that state principals can obfuscate their involvement in such attacks by delegating operational tasks to non-state agents poses a particularly significant challenge to international enforcement and remedies. Gaps in international law, coupled with obstacles to detection in such cases, may make it more difficult to bring sponsoring states to justice. This paper offers a roadmap for assessing the propensity ofstates to delegate to non-state actors and correct for false positives in standard (typically more technical) cyber attack attribution methods. I conclude that the conditions under which attacks are likely to have been backed by sponsoring states occupy a much narrower window than conventional wisdom suggests, and that the universe oftransgressors can be identified when standard indicators overlap with specific conditions.</i></li>
+</ul><br>
+
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3611582">Outsourcing Cyber Power: Why Proxy Conflict in Cyberspace May No Longer Pay</a> (under review)
 <ul>
 	<li><i>A sizable literature implies that states can achieve military and foreign policy objectives "on the cheap" by outsourcing covert operations to willing non-state proxy actors, be they mercenaries, patriotic zealots, pranksters, or simply enemies of enemies. By outsourcing, a host government can claim plausible deniability while all the while cashing in on strategic gains. Attribution is notoriously difficult in cyberspace, so outsourcing should especially prevalent. Puzzlingly, cyber outsourcing appears to be in decline, even in countries where hackers are both highly capable and ideologically sympathetic to host state objectives. This article leverages a formal analytical model to hypothesize about why it might no longer pay to outsource to cyber proxies. Default explanations, including principal-agent problems, are neither sufficient nor necessary to explain recently observed patterns. Instead, I argue, new attribution technologies, particularly the willingness of states to make allegations about informal state-proxy links on the basis of circumstantial and cumulative rather than legally admissible evidence, mean that outsourcing carries no real added benefit to offset its risks. Normative momentum regarding the international law on state responsibility should only reinforce this trend as international audiences come to more fully accept nontraditional forms of attributive evidence.</i></li>
 </ul><br>
 
 
-<a style="font-weight:bold" href="404">Debate Hall or Echo Chamber: Do Cyber Norms Proposals Work?</a> (working paper available)
-<ul>
-	<li><i>One way states communicate their expectations is through expressive international legal policy. Law clarifies expectations about what "right" and "wrong" behavior look like, but this only works if its adherents agree on the law's meaning and intent. Understanding whether cyber law discussions can be effective in changing behavior depends on whether states are talking to or past one another. Leveraging an original dataset of sovereign cyber law statements alongside new techniques in machine learning, this paper classifies and maps the dynamic character of the international cyber law debate over time. By identifying areas in which the US has gained or lost the most narrative ground, the findings can inform debates about the effectiveness of different types of norm-based approaches.</i></li>
-</ul><br>
-
-
-<a style="font-weight:bold" href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i><b>Journal of International Affairs</b></i>)
-<ul>
-	<li><i>Concerns about state-directed cyber intrusions have grown increasingly prevalent in recent years. The idea that state principals can obfuscate their involvement in such attacks by delegating operational tasks to non-state agents poses a particularly significant challenge to international enforcement and remedies. Gaps in international law, coupled with obstacles to detection in such cases, may make it more difficult to bring sponsoring states to justice. This paper offers a roadmap for assessing the propensity ofstates to delegate to non-state actors and correct for false positives in standard (typically more technical) cyber attack attribution methods. I conclude that the conditions under which attacks are likely to have been backed by sponsoring states occupy a much narrower window than conventional wisdom suggests, and that the universe oftransgressors can be identified when standard indicators overlap with specific conditions.</i></li>
-</ul><br>
 
 </details>
 
@@ -55,7 +52,14 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 <details>
-	<summary>Outer Space</summary>
+	<summary>New Data</summary>
+
+	
+<a style="font-weight:bold" href="404">Debate Hall or Echo Chamber: Do Cyber Norms Proposals Work?</a> (working paper available)
+<ul>
+	<li><i>One way states communicate their expectations is through expressive international legal policy. Law clarifies expectations about what "right" and "wrong" behavior look like, but this only works if its adherents agree on the law's meaning and intent. Understanding whether cyber law discussions can be effective in changing behavior depends on whether states are talking to or past one another. Leveraging an original dataset of sovereign cyber law statements alongside new techniques in machine learning, this paper classifies and maps the dynamic character of the international cyber law debate over time. By identifying areas in which the US has gained or lost the most narrative ground, the findings can inform debates about the effectiveness of different types of norm-based approaches.</i></li>
+</ul><br>
+
 
 <a style="font-weight:bold" href="404">Respectful Rivalry: Comparative US Media Coverage of Soviet and Chinese Space Programs, 1957–2019</a> (working paper available)
 <ul>
