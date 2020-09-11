@@ -33,8 +33,7 @@ html {
 body {
   color: $text-color;
   font-family: $font-family-main;
- /* font-size: $font-size; */
- font-size: 12px/1.4 $times;
+  font-size: $font-size;
   word-wrap: break-word;
 }
 
