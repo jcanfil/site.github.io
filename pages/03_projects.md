@@ -59,7 +59,5 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 <a style="font-weight:bold" href="http://press.georgetown.edu/book/georgetown/military-strategy-joint-operations-and-airpower">Innovation and Organizational Politics in the US Air Force</a>, in MILITARY STRATEGY, JOINT OPERATIONS, AND AIRPOWER (<i><b>Georgetown University Press</b></i>)
 
 
-</details>
-
 
 
