@@ -8,11 +8,8 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-<b>Projects & Publications</b> (click to expand):
+<b>Projects & Publications</b>:
 
-
-<details>
-	 <summary>Dissertation Chapters: Law and Arms Control</summary>
 
 
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684991">How International Law Keeps Pace with Technological Change: Evidence from an Experiment</a> (under review)
@@ -27,12 +24,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-</details>
-
-
-<details>
-	<summary>Cyber Conflict</summary>
-
 
 <a style="font-weight:bold" href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i><b>Journal of International Affairs</b></i>)
 <ul>
@@ -46,14 +37,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-</details>
-
-
-
-
-<details>
-	<summary>New Data</summary>
-
 	
 <a style="font-weight:bold" href="404">Debate Hall or Echo Chamber: Do Cyber Norms Proposals Work?</a> (working paper available)
 <ul>
@@ -66,24 +49,12 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 	<li><i>The 50th anniversary of the Apollo 11 landing this year was received with much fanfare. But it is easy to forget that the race to the Moon was couched in superpower rivalry under the specter of nuclear war. Attitudes toward outer space activity are a puzzling exception to the "enemy image" that usually accompanies international rivalry, especially given national security sensitivities inherent to space. Do media narratives shape public opinion, or is the public naturally immune to negative government characterization? Relying on an original dataset of New York Times space coverage spanning 1957-2019 and a randomized survey experiment, I find that news media has only a limited capacity to shape respondent attitudes, and negative framing can backfire. Coverage of both the Soviet and Chinese space program has been surprisingly praiseworthy, even during periods of heightened tension. Moreover, public attitudes are mostly positive toward rival successes even when news coverage is negative, suggesting that elites fight an uphill battle when stoking public fears about space. The findings contribute to scholarly understanding about the role of media in shaping public opinion, and suggest that cooperative space ventures -- which cut costs and enjoy public popularity -- may be more politically expedient than space competition.</i></li>
 </ul><br>
 
-</details>
-
-
-
-<details>
-	<summary>Judicial Economy</summary>
 
 <a style="font-weight:bold" href="404">Two to Tango: How Outside Options Can Constrain the Use of Caselaw Precedent</a> (working paper available)
 <ul>
 	<li><i>In international dispute settlement, the use of precedent is theoretically discouraged but widespread in practice. Do all courts use precedent to strengthen their position? In positing explanations, existing theory overlooks jurisdictional strength as a factor. I argue that courts that lack the power to compel appearance must worry about attracting litigant entry before worrying about compliance. Because the use of precedent clarifies claimant expectations, noncompulsory courts should economize their use of precedent to avoid pushing out parties that expect to lose based on the court's track record. Using an original dataset of contentious International Court of Justice cases from 1948-2010, I find indirect support for the theory: the court exhibits marked restraint in noncompulsory settings, but less restraint in compulsory ones. The research highlights how precedent can be a double-edged sword, even when judges know their ideal points will not change.</i></li>
 </ul><br>
 
-</details>
-
-
-
-<details>
-	<summary>Military Innovation</summary>
 
 <a style="font-weight:bold" href="http://press.georgetown.edu/book/georgetown/military-strategy-joint-operations-and-airpower">Innovation and Organizational Politics in the US Air Force</a>, in MILITARY STRATEGY, JOINT OPERATIONS, AND AIRPOWER (<i><b>Georgetown University Press</b></i>)
 
