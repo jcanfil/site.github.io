@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /dissertation
-title: Dissertation
+permalink: /book
+title: Book
 feature-img: "assets/img/pexels/bg11.png"
 ---
 
 <p style="text-align:justify;">
-My book-length dissertation project advances a theory to explain <b>why some new technologies are more legally contentious</b> in international politics than others, and how international regimes -- when challenged by such developments -- must adapt or die. 
+My book project advances a theory to explain <b>why some new technologies are more legally contentious</b> in international politics than others, and how international regimes -- when challenged by such developments -- must adapt or die. 
 
 I leverage a mixed-methods approach involving more than a year and a half of fieldwork in Russia, China, Europe, and the US -- text analysis, game theory, randomized experiments, elite interviews, and more than 200,000 pages of declassified documents from seven archives -- to shed some of the first empirical light on this problem. The findings have immediate implications for our understanding of how law and norms are likely to develop for ongoing technological controversies -- cyber, space, artificial intelligence, and more.
 </p>
