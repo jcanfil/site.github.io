@@ -6,9 +6,9 @@ feature-img: "assets/img/pexels/bg11.png"
 ---
 
 <p style="text-align:justify;">
-My book project advances a theory to explain <b>why some new technologies are more legally contentious</b> in international politics than others, and how international regimes -- when challenged by such developments -- must adapt or die. 
+Why are some emerging technologies more contentious in international politics than others? My book project advances a theory of <i>institutional resilience</i> to explain why technological laggards ever decline to protest harmful innovations, or why innovators ever acquiesce to limitations -- in short, why only some militarily impactful technologies are disruptive to cooperative institutions.
 
-I leverage a mixed-methods approach involving more than a year and a half of fieldwork in Russia, China, Europe, and the US -- text analysis, game theory, randomized experiments, elite interviews, and more than 200,000 pages of declassified documents from seven archives -- to shed some of the first empirical light on this problem. The findings have immediate implications for our understanding of how law and norms are likely to develop for ongoing technological controversies -- cyber, space, artificial intelligence, and more.
+I combine findings from randomized experiments, fieldwork in Russia, China, Europe, and the US, and thousands of declassified historical documents from seven government archives to shed empirical light on this question. This research has broad implications for domains of competition in which technology moves quickly and unpredictably -- space, cyber, AI, and more.
 </p>
 
 
