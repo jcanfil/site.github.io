@@ -8,7 +8,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-<b>Projects & Publications</b>:
+<b>Projects & Publications</b> (updated 3/21):
 
 
 
