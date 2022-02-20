@@ -8,13 +8,13 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-<b>Projects & Publications</b> (updated 3/21):
+<b>Projects & Publications</b> (updated 1/22):
 
 
 
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684991">How International Law Keeps Pace with Technological Change: Evidence from an Experiment</a> (under review)
 <ul>
-	<li><i>Law is codified in text. Text is static, however, and new situations and technologies arise for which its writers could never have envisioned. Yet societies often find ways of adapting the law rather than writing it anew. When new situations arise for which the law is technically silent, how do states decide whether these constitute loopholes, lacunae, or lawbreaking? This paper advances a formal theory that shows how ambiguity can actually be advantageous in some situations. Self-interest politicizes the interpretation process, but only at the margins, forcing decisionmakers to make tradeoffs between plausibility and security. The theoretical predictions are tested using a vignette-based laboratory experiment fielded on legal experts in the US and China. The empirical findings reveal how legal agents are constrained by analogical capacity flowing from extant legal text, even when the stakes are high.</i></li>
+	<li><i>Law is often codified in text. Text is static, however, and new situations and technologies arise for which its writers could never have envisioned. Yet societies often find ways of adapting the law rather than writing it anew. When new situations arise for which the law is technically silent, how do states decide whether these constitute loopholes, lacunae, or lawbreaking? This paper advances a formal theory that shows how ambiguity can actually be advantageous in some situations. Self-interest politicizes the interpretation process, but only at the margins, forcing decisionmakers to make tradeoffs between plausibility and security. The theoretical predictions are tested using a vignette-based laboratory experiment fielded on legal experts in the US and China. The empirical findings reveal how legal agents are constrained by analogical capacity flowing from extant legal text, even when the stakes are high.</i></li>
 </ul><br>
 
 <a style="font-weight:bold" href="http://dx.doi.org/10.2139/ssrn.3423080">Controlling Tomorrow: Explaining Anticipatory Bans on Emerging Military Technologies</a> (under review)
@@ -23,6 +23,17 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
+
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038982">Mapping State Participation in Military AI Governance Discussions</a> (with Elsa Kania, forthcoming)
+<ul>
+	<li><i>Can existing conventions be adapted to govern current advances in artificial intelligence and autonomy in weapons systems? What is the likelihood that states can achieve consensus on the core questions at stake in these debates? To date, mechanisms for arms control and governance have struggled to adapt to changing technological expectations, and metrics to gauge progress have remained inadequate. Drawing on original data, this chapter attempts to quantify the landscape of AI governance discussions under the Convention on Certain Conventional Weapons (CCW). We evaluate a battery of factors – military capabilities, economic interests, diplomatic alignment, and regime type -- in order to understand why some states are more eager than others to engage. We find that the determinants of participation are in fact nuanced, and that no single school of thought can account for the variation. Scholars and policymakers can appreciate why nearly all governments are working to shape the outcome of discussions, even if for varied reasons.</i></li>
+</ul><br>
+
+
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3611582">Implausible Deniability? Why Proxy Conflict in Cyberspace May No Longer Pay</a> (Revise/Resubmit)
+<ul>
+	<li><i>It is believed that states can achieve military and foreign policy objectives “on the cheap” by outsourcing covert operations to willing proxy actors, be they mercenaries, patriotic zealots, pranksters, or simply allies of convenience. By outsourcing, this logic goes, a host government can claim plausible deniability while cashing in on strategic gains. In cyberspace, attribution is assumed to be problematic, so cyber proxies should especially prevalent. Puzzlingly, proxy-associated behavior across three datasets appears to show heterogeneity in outsourcing strategies and a decline over time. Does outsourcing still pay? Using a formal analytical model, this paper shows how default assumptions rooted in the principal-agent dynamic are neither sufficient nor necessary to explain observed patterns. Instead, the model hypothesizes that new norms of attribution (specifically, the willingness of victims to make accusations on the basis of circumstantial evidence) are developing. If so, sponsors may be learning that their deniability isn’t plausible after all, which would obviate the need for proxies. More importantly, however, this proposition conflicts with another untestable possibility. If cyber proxies really do offer plausible deniability, then outsourcing behavior appear to decline on the open source level as more (not fewer) states adopted this strategy. Either scenario is sufficient to produce an apparent decline. By showing how the same patterns can be explained by adopting disparate sets of assumptions about the data-generating process, this paper serves as a reminder to scholars who work on secretive topics such as cyber to continually challenge basic assumptions and embrace the possibility of equifinality.</i></li>
+</ul><br>
 
 
 <a style="font-weight:bold" href="https://www.jstor.org/stable/90012607?seq=1#metadata_info_tab_contents">Honing Cyber Attribution: A Framework for Assessing Foreign State Complicity</a> (<i><b>Journal of International Affairs</b></i>)
@@ -35,13 +46,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 <ul>
 	<li><i>Where, if anywhere, have state-led cyber norms efforts succeeded? Leveraging an original dataset, this paper provides some of the first empirical traction on this question. Contrary to conventional wisdom that states are notoriously tight-lipped about how they think law and norms should apply to new domains, I catalog more than 10,000 crossnational government expressions about how cyber law and norms apply (collectively more than 10 million words) since 1998. Unsupervised computational techniques are used to provide some of the first evidence about the extent to which states have been talking to or past one another on core issues. The findings suggest that there has been surprising convergence, but always not on the issues or in the direction dominant theory would predict. Moreover, increasingly broad participation seems to suggest that states recognize their shared interest in stabilizing the cyber domain, although most-needed type of engagement -- direct engagement between the US, Russia, and China -- is also least prevalent. By implication, the prospects for cyber norms are neither as promising, nor as dire, as divided commentary tends to predict. Future research can use this dataset to develop new theories about norm emergence, persuasion, diffusion, and internalization.</i></li>
 </ul><br>
-
-
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3611582">Implausible Deniability? Why Proxy Conflict in Cyberspace May No Longer Pay</a> (under review)
-<ul>
-	<li><i>It is believed that states can achieve military and foreign policy objectives “on the cheap” by outsourcing covert operations to willing proxy actors, be they mercenaries, patriotic zealots, pranksters, or simply allies of convenience. By outsourcing, this logic goes, a host government can claim plausible deniability while cashing in on strategic gains. In cyberspace, attribution is assumed to be problematic, so cyber proxies should especially prevalent. Puzzlingly, proxy-associated behavior across three datasets appears to show heterogeneity in outsourcing strategies and a decline over time. Does outsourcing still pay? Using a formal analytical model, this paper shows how default assumptions rooted in the principal-agent dynamic are neither sufficient nor necessary to explain observed patterns. Instead, the model hypothesizes that new norms of attribution (specifically, the willingness of victims to make accusations on the basis of circumstantial evidence) are developing. If so, sponsors may be learning that their deniability isn’t plausible after all, which would obviate the need for proxies. More importantly, however, this proposition conflicts with another untestable possibility. If cyber proxies really do offer plausible deniability, then outsourcing behavior appear to decline on the open source level as more (not fewer) states adopted this strategy. Either scenario is sufficient to produce an apparent decline. By showing how the same patterns can be explained by adopting disparate sets of assumptions about the data-generating process, this paper serves as a reminder to scholars who work on secretive topics such as cyber to continually challenge basic assumptions and embrace the possibility of equifinality.</i></li>
-</ul><br>
-
 
 
 <a style="font-weight:bold" href="404">Respectful Rivalry: Comparative US Media Coverage of Soviet and Chinese Space Programs, 1957–2019</a> (working paper available)
