@@ -24,7 +24,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038982">Mapping State Participation in Military AI Governance Discussions</a> (with Elsa Kania, forthcoming <i><b>Oxford University Press</i></b>)
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038982">Mapping State Participation in Military AI Governance Discussions</a> (with Elsa Kania, forthcoming <i><b>Oxford University Press</b></i>)
 <ul>
 	<li><i>Can existing conventions be adapted to govern current advances in artificial intelligence and autonomy in weapons systems? What is the likelihood that states can achieve consensus on the core questions at stake in these debates? To date, mechanisms for arms control and governance have struggled to adapt to changing technological expectations, and metrics to gauge progress have remained inadequate. Drawing on original data, this chapter attempts to quantify the landscape of AI governance discussions under the Convention on Certain Conventional Weapons (CCW). We evaluate a battery of factors – military capabilities, economic interests, diplomatic alignment, and regime type -- in order to understand why some states are more eager than others to engage. We find that the determinants of participation are in fact nuanced, and that no single school of thought can account for the variation. Scholars and policymakers can appreciate why nearly all governments are working to shape the outcome of discussions, even if for varied reasons.</i></li>
 </ul><br>
