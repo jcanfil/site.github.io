@@ -20,7 +20,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3611582">The illogic of plausible deniability: why proxy conflict in cyberspace may no longer pay</a> (<i><b>Journal of Cybersecurity</b></i>)
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256802">The illogic of plausible deniability: why proxy conflict in cyberspace may no longer pay</a> (<i><b>Journal of Cybersecurity</b></i>)
 <ul>
 	<li><i>It is believed that military and foreign policy aims can be pursued cheaply by outsourcing cyber operations to willing proxy actors, be they cyber mercenaries, patriotic zealots, pranksters, or simply allies of convenience. By outsourcing, this logic goes, a host government can claim plausible deniability while cashing in on strategic gains. Puzzlingly, proxy-associated behavior across three datasets appears to show that activity associated with outsourcing has flagged. Do cyber proxies still pay? A formal model is used to hypothesize about how new norms of attribution (specifically, the willingness of victims to make accusations on the basis of circumstantial evidence) are developing. Sponsors who learn that they will take the heat regardless have fewer incentives to rely on proxies. Empirical evidence drawn from two cyber incident datasets offers support for this proposition. This should decrease our confidence that plausible deniability is the primary reason why states outsource their cyber operations to non-state hackers. The paper joins an emerging body of research that has questioned the logic of plausible deniability in covert action, including cyber conflict.</i></li>
 </ul><br>
