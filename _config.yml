@@ -9,7 +9,7 @@ avatar: assets/seal.png                        # Empty for no avatar in navbar
 favicon: assets/seal.png                            # Icon displayed in the tab
 
 # Header and footer text
-header_text: Welcome! 欢迎光临​！  # Change Blog header text
+header_text: # Welcome! 欢迎光临​！  # Change Blog header text
 header_feature_image: # assets/img/triangular.jpeg
 
 # Blog
