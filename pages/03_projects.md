@@ -12,11 +12,17 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 
 
 	
-<a style="font-weight:bold" href="https://ssrn.com/abstract=3731163">Until Consensus: Mapping International Cyberspace Expressions by States Since 1998</a> (under review)
+<a style="font-weight:bold" href="https://ssrn.com/abstract=3731163">Until Consensus: Mapping International Cyberspace Expressions by States Since 1998</a> (forthcoming, Journal of Peace Research)
 <ul>
 	<li><i>Cyberspace has had the attention of the international community for more than twenty years, and states have filled this time with expressions about their aspirations for (and discontent with) various issues in the cyber domain. Where, if at all, have norm-building efforts succeeded? Extant scholarship has until now relied on informal-theoretic, case study, and interpretative methods to assess patterns of norm development in cyberspace. Ideally, these accounts would be complemented with more systematic crossnational and longitudinal empirical evidence. To address this gap, I introduce the International Cyber Expression (ICE) Dataset, based on the systematic collection of publicly retrievable international cyber norms expressions by all UN-recognized states. The dataset includes a corpus of more than 30,000 expressions of view spanning the equivalent of 1.8 million country-days. In all possible cases, the full text of the expression is included (more than 59 million words in total). Relying on mostly existing sources, 200 correlates of interest are also appended. In the paper, I describe the sources of this data and demonstrate its usefulness with an exploratory analysis of cyber discourse convergence across 12 issue spaces. Future research can leverage the dataset in the development and empirical testing of theoretical and policy questions related to cyber rhetoric. The dataset can be used to study norm emergence, diffusion, and internalization, or paired with incident/escalation data to study the conditions under which words might influence deeds and vice versa.
 
 </i></li>
+</ul><br>
+
+
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038982">Mapping State Participation in Military AI Governance Discussions</a> (with Elsa Kania, forthcoming <i><b>Oxford University Press</b></i>)
+<ul>
+	<li><i>Can existing conventions be adapted to govern current advances in artificial intelligence and autonomy in weapons systems? What is the likelihood that states can achieve consensus on the core questions at stake in these debates? To date, mechanisms for arms control and governance have struggled to adapt to changing technological expectations, and metrics to gauge progress have remained inadequate. Drawing on original data, this chapter attempts to quantify the landscape of AI governance discussions under the Convention on Certain Conventional Weapons (CCW). We evaluate a battery of factors – military capabilities, economic interests, diplomatic alignment, and regime type -- in order to understand why some states are more eager than others to engage. We find that the determinants of participation are in fact nuanced, and that no single school of thought can account for the variation. Scholars and policymakers can appreciate why nearly all governments are working to shape the outcome of discussions, even if for varied reasons.</i></li>
 </ul><br>
 
 
@@ -32,7 +38,7 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684991">How International Law Keeps Pace with Technological Change: Evidence from an Experiment</a> (under review)
+<a style="font-weight:bold" href="">How International Law Keeps Pace with Technological Change: Evidence from an Experiment</a> (under review)
 <ul>
 	<li><i>Law is often codified in text. Text is static, however, and new situations and technologies arise for which its writers could never have envisioned. Yet societies often find ways of adapting the law rather than writing it anew. When new situations arise for which the law is technically silent, how do states decide whether these constitute loopholes, lacunae, or lawbreaking? This paper advances a formal theory that shows how ambiguity can actually be advantageous in some situations. Self-interest politicizes the interpretation process, but only at the margins, forcing decisionmakers to make tradeoffs between plausibility and security. The theoretical predictions are tested using a vignette-based laboratory experiment fielded on legal experts in the US and China. The empirical findings reveal how legal agents are constrained by analogical capacity flowing from extant legal text, even when the stakes are high.</i></li>
 </ul><br>
@@ -43,11 +49,6 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 </ul><br>
 
 
-
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038982">Mapping State Participation in Military AI Governance Discussions</a> (with Elsa Kania, forthcoming <i><b>Oxford University Press</b></i>)
-<ul>
-	<li><i>Can existing conventions be adapted to govern current advances in artificial intelligence and autonomy in weapons systems? What is the likelihood that states can achieve consensus on the core questions at stake in these debates? To date, mechanisms for arms control and governance have struggled to adapt to changing technological expectations, and metrics to gauge progress have remained inadequate. Drawing on original data, this chapter attempts to quantify the landscape of AI governance discussions under the Convention on Certain Conventional Weapons (CCW). We evaluate a battery of factors – military capabilities, economic interests, diplomatic alignment, and regime type -- in order to understand why some states are more eager than others to engage. We find that the determinants of participation are in fact nuanced, and that no single school of thought can account for the variation. Scholars and policymakers can appreciate why nearly all governments are working to shape the outcome of discussions, even if for varied reasons.</i></li>
-</ul><br>
 
 
 
